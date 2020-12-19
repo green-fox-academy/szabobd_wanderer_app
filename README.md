@@ -1,0 +1,1 @@
+# szabobd_wanderer_app
