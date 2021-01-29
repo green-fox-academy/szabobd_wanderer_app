@@ -23,12 +23,12 @@ This file makes makes the game work, meaning it uses other files and classes and
 3. Open the directory that you pulled
 4. Double click gamelogic.py
 
+## Gameplay
+When the game is running, the hero starts in the upper left corner of the maze. The hero needs to kill the boss and the skleton with the key to move on to the next level. The heros stats can be seen in the bottom, on a white rectangle. When on the same tile with an enemy, the stats of the enemy can be seen on this part as well.
+
 ## Controls
-1. To move around, use `wasd`
-  To move up, hit `w`
-  To move down, hit `s`
-  To move right, hit `d`
-  To move left, hit `a`
+1. To move around, use `wasd`: To move up, hit `w`, to move down, hit `s`, to move right, hit `d`, o move left, hit `a`
+2. When on the same cell with an enemy, use `space` to attack
   
   
 
